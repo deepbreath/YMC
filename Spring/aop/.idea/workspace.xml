@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4cde704-9e83-4e43-9805-f68b86c47f39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../career/软件工程师/语言/Java/JavaFx/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../career/软件工程师/语言/Java/库与框架/基础/JavaQ&amp;A.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../思考/自己的笔记方式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2022年日常行动.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../如何一个人顶1000效.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../年度目标一换工作(进行中).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JVM/JVM面试.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaIo/JavaNIO面试.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java基础/JavaQ&amp;A.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java基础/Java基础面试.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java基础/为什么引入泛型.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java基础/什么是SPI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java基础/什么是反射.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java基础/什么是注解.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java基础/关于异常.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java并发/Java并发.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java并发/并发面试.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java消息队列/消息队列面试.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java版本/Java历史新特性.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java集合框架/Java集合框架面试.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nosql数据库/ES面试.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nosql数据库/Redis面试.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringAop.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/aop/CglibProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/aop/ForumService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/aop/ForumServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/aop/GreetBeforeAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/aop/MethodPerformance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/aop/PerformanceHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/aop/PerformanceMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/aop/Waiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yc/aop/WaiterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BeforeAdviceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ForumServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ForumServiceTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../关系数据库/MySql存储引擎.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../关系数据库/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../关系数据库/分库分表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../关系数据库/并发控制.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../关系数据库/数据库优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../关系数据库/数据库比较.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../关系数据库/数据库理论.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../关系数据库/集群.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../分布式/什么是BASE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../分布式/什么是CAP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../分布式/什么是分布式事务.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../分布式/分布式框架RPC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../分布式/分布式面试.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../微服务/微服务架构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法/算法体系/逻辑结构/树/多路查找树/B+Tree.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法/算法体系/逻辑结构/树/多路查找树/B-Tree.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/设计模式面试.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../阅读/政治哲学.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../阅读/魔山.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../career/软件工程师/语言/Java/EffectiveJava/异常.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../career/软件工程师/语言/Java/EffectiveJava/异常.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Interview.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Interview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../关系数据库/什么是索引.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../关系数据库/什么是索引.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../阅读/DDD.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../阅读/DDD.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../阅读/万历十五年.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../阅读/万历十五年.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../阅读/白痴.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../阅读/白痴.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\.m2" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="245lVYlzw1L6uMevxuwVkKTIOCK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BeforeAdviceTest.before">
+    <configuration name="BeforeAdviceTest.before" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BeforeAdviceTest" />
+      <option name="METHOD_NAME" value="before" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForumServiceTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ForumServiceTest2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForumServiceTest.proxy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ForumServiceTest" />
+      <option name="METHOD_NAME" value="proxy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BeforeAdviceTest.before" />
+        <item itemvalue="JUnit.ForumServiceTest2" />
+        <item itemvalue="JUnit.ForumServiceTest.proxy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4cde704-9e83-4e43-9805-f68b86c47f39" name="Changes" comment="" />
+      <created>1642928353631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642928353631</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
