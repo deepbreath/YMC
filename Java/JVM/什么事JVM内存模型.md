@@ -8,3 +8,5 @@
 1.原子性
 2.一致性
 3.有序性
+
+[什么事内存模型](https://www.hollischuang.com/archives/2550)
