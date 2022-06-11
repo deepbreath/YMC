@@ -3,6 +3,16 @@
 面试链接
   ( https://note.youdao.com/ynoteshare/index.html?id=61a759cfb1546ec86f7b81817143ee6c&type=note&_time=1641631718761?auto)  
 
+场景驱动解决问题，是我非常擅长的：
+1.秒杀问题解决
+2.海量数据分析解决
+3.订单事务解决
+
+目前问题：
+1.图片存储
+2.订单事务
+3.数据处理
+
 ### 简单  
 
 1. Spring 系列(深入了解IOC 以及AOP,温习一下)  

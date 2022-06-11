@@ -1,6 +1,8 @@
 缓存在餐厅内的比喻是什么?  
 
-
+docker redis 哨兵模式部署
+docker swarm 
+准备
 
 
 缓存会产生的问题  
