@@ -52,7 +52,13 @@ class Solution {
     public ListNode reverseList(ListNode head) {
 
 
+
         
+    }
+
+    public static void main(String[] args) {
+
+
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
