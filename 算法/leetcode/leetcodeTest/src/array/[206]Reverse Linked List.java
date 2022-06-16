@@ -53,7 +53,10 @@ import javax.sound.midi.Soundbank;
  */
 class Solution {
     public  ListNode reverseList(ListNode head) {
+
+        //创建空 Next
     ListNode pre=new ListNode();
+    //head
     ListNode cur=head;
     while (cur!=null){
         ListNode next=cur.next;
