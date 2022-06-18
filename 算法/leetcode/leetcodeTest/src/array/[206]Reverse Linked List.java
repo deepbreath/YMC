@@ -52,6 +52,7 @@ import javax.sound.midi.Soundbank;
  * }
  */
 class Solution {
+    //时间复杂度 O(N)
     public  ListNode reverseList(ListNode head) {
 
         //创建空 Next
@@ -59,9 +60,11 @@ class Solution {
     //head
     ListNode cur=head;
     while (cur!=null){
+        //指出当前节点的下一个节点
         ListNode next=cur.next;
-
+        //将当前节点的下一个节点指向，pre
         cur.next=pre;
+        //
         pre=cur;
         cur=next;
     }
@@ -84,7 +87,6 @@ class Solution {
         ListNode r=reverse(node,nextNode);
 
         r.next=preNode;
-
 
         System.out.println("******************");
         System.out.println("R val"+r.val);
@@ -109,15 +111,24 @@ class Solution {
         ListNode node2=new ListNode(2,node3);
 
         ListNode head=new ListNode(1,node2);
-
+        //处理方式1
         Solution so=new Solution();
         System.out.println("Input ListNode ");
         ListNode reNos=so.reverseList(head);
-//        System.out.println("Output reversNode Value");
-//        so.printNodeList(head);
+
+        //解决方法2
+        Solution2 so2=new Solution2();
+        so2.reverseList(head);
+
+    }
+}
+
+class Solution2{
+    //使用 递归 的思路 时间复杂度 O（2 的 N 次方）
+    public  ListNode reverseList(ListNode head) {
 
 
-
+        return head;
     }
 
     public void printNodeList(ListNode head){
@@ -128,12 +139,15 @@ class Solution {
         printNode(head.next);
 
     }
-    public void  printNode(ListNode node){
-        if (node.next==null){
+
+    public void  printNode(ListNode node) {
+        if (node.next == null) {
 
         }
         System.out.println(node.val);
         printNode(node.next);
+
     }
-}
+
+    }
 //leetcode submit region end(Prohibit modification and deletion)
