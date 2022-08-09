@@ -1,4 +1,5 @@
-//Given a linked list, swap every two adjacent nodes and return its head. You 
+package array;
+//Given a linked list, swap every two adjacent nodes and return its head. You
 //must solve the problem without modifying the values in the list's nodes (i.e., 
 //only nodes themselves may be changed.) 
 //
@@ -35,6 +36,9 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
+
+import array.ListNode;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -45,9 +49,15 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class SwapSolution {
     public ListNode swapPairs(ListNode head) {
-        
+
+        //判断是否 next 节点不为null
+        //如果不为 NULL 则进行交换
+        //进入下个节点
+        //
+
+        return null;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

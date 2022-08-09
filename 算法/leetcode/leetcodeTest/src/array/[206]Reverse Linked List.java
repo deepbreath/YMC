@@ -127,7 +127,6 @@ class Solution2{
     //使用 递归 的思路 时间复杂度 O（2 的 N 次方）
     public  ListNode reverseList(ListNode head) {
 
-
         return head;
     }
 
